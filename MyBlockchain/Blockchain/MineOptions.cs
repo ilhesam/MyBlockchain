@@ -1,4 +1,4 @@
-﻿namespace BasicBlockchain.Blockchain;
+﻿namespace Blockchain;
 
 public class MineOptions
 {
